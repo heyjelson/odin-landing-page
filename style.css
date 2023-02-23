@@ -43,6 +43,10 @@ header {
 
   .nav_item {
     list-style: none;
+  }
+
+  .nav_item a {
+    text-decoration: none;
     color: #e5e7eb;
   }
 
